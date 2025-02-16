@@ -1,0 +1,9 @@
+# Ignore dist folder except specific files
+/dist/
+/!dist/config/
+/!dist/config/*.json
+/node_modules
+npm-debug.log*
+.DS_Store
+*.env
+
