@@ -1,8 +1,16 @@
-# Ignore dist folder except specific files
-/dist/
+# Default ignored files
+*/shelf/
+*/workspace.xml
+# Editor-based HTTP Client requests
+*/httpRequests/
+# Datasource local storage ignored files
+*/dataSources/
+/dataSources.local.xml
+*/dist/
 /!dist/config/
 /!dist/config/*.json
 /node_modules
+node_modules
 npm-debug.log*
 *.env
 .env
